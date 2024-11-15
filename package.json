@@ -7,8 +7,8 @@
     "dev": "vite --port 3000",
     "build": "tsc && vite build",
     "lint": "eslint src --ext js,tsx --report-unused-disable-directives --max-warnings 0",
-  "preview": "vite preview",
-      "eslint": "eslint src",
+    "preview": "vite preview",
+    "eslint": "eslint src",
     "test": "vitest"
   },
   "dependencies": {
@@ -21,8 +21,8 @@
     "@types/pretty": "^2.0.3",
     "@types/react": "^18.2.15",
     "@types/react-dom": "^18.2.7",
-    "@typescript-eslint/eslint-plugin": "^6.0.0",
-    "@typescript-eslint/parser": "^6.0.0",
+    "@typescript-eslint/eslint-plugin": "^8.14.0",
+    "@typescript-eslint/parser": "^8.14.0",
     "@vitejs/plugin-react": "^4.0.3",
     "eslint": "^8.45.0",
     "eslint-plugin-react-hooks": "^4.6.0",
